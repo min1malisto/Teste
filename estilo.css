@@ -1,0 +1,20 @@
+a{
+    color: red;
+    font-family: helvetica, sans-serif;
+}
+h1{
+    color: red;
+    font-family: helvetica, sans-serif;
+}
+p{
+    font-size: 25px;
+}
+img{
+    margin: auto;
+}
+#wrap{
+    width: 900px;
+    margin: auto;
+    color: red
+
+}
